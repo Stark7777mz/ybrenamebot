@@ -43,7 +43,7 @@ class Scripted(object):
 <b>My Name : <a href='https://t.me/YBRenameBot'>YBRenameBot</a></b>\n
 <b>Channel : <a href='https://t.me/YogeshBots'>• Yogesh Bots •</a></b>\n
 <b>Version : <a href='https://t.me/YBRenameBot'>0.9.2 beta</a></b>\n
-<b>Source : <a href='https://github.com/itsyogieu'>Click Here</a></b>\n
+<b>Subscribe : <a href='https://bit.ly/3y3Ej6u'>Click Here</a></b>\n
 <b>Server : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>Language : <a href='https://www.python.org'>Python 3.9.4</a></b>\n

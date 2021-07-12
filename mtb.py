@@ -8,7 +8,7 @@ class mtb(object):
 =>I Can Rename Files With Permanant Thumbnail Support 💥
 =>I Can Convert Files Too 🙂
 Use help Button For More Details
-🧨Devoloped & Maintained By : : <a href='https://t.me/Itz_Me_Malayali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯ 『★Tᴍ★』 #Broken Sed Life 💔</a></b>
+🧨Devoloped & Maintained By : : <a href='https://bit.ly/3gwsct3'>✯°• Yogesh R •°✯</a></b>\n
   """
   HELP_TXT = """
   
@@ -39,13 +39,13 @@ Use help Button For More Details
 <b>⚙️Server : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>🛡Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>🪓Language : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>🎉Developer : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</a></b>\n
-<b>🚀Channel : <a href='https://t.me/YogeshBots'>Yogesh 𝗕𝗼𝘁𝘀</a></b>\n
+<b>🎉Developer : <a href='https://bit.ly/3gwsct3'>✯°• Yogesh R •°✯</a></b>\n
+<b>🚀Channel : <a href='https://t.me/YogeshBots'>𝗬𝗼𝗴𝗲𝘀𝗵 𝗕𝗼𝘁𝘀</a></b>\n
 """
   
   START_BUTTONS = InlineKeyboardMarkup(
     [[
-      InlineKeyboardButton("💁🏻 𝑴𝒚 𝑭𝒂𝒕𝒉𝒆𝒓", url="https://t.me/Itz_Me_Malayali"),
+      InlineKeyboardButton("💁🏻 𝑴𝒚 𝑭𝒂𝒕𝒉𝒆𝒓", url="https://t.me/YogeshBots"),
       InlineKeyboardButton("⚙️ 𝑯𝒆𝒍𝒑", callback_data="help")
      ],[
       InlineKeyboardButton("𝑨𝒃𝒐𝒖𝒕 📕", callback_data="about"),

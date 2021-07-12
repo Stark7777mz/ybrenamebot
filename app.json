@@ -4,9 +4,9 @@
   "keywords": [
     "Rename"
   ],
-  "success_url": "https://t.me/RENAME_X2_BOT",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/RENAMER-BOT",
+  "success_url": "https://t.me/YBRenameBot",
+  "website": "https://github.com/itsyogieu",
+  "repository": "https://github.com/itsyogieu/YBRenameBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",

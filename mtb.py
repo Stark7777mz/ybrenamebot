@@ -6,8 +6,11 @@ class mtb(object):
   
 <b>Hello {},👋
 =>I Can Rename Files With Permanant Thumbnail Support 💥
+
 =>I Can Convert Files Too 🙂
+
 Use help Button For More Details
+
 🧨Devoloped & Maintained By : : <a href='https://bit.ly/3gwsct3'>✯°• Yogesh R •°✯</a></b>\n
   """
   HELP_TXT = """

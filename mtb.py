@@ -45,7 +45,7 @@ Use help Button For More Details
   
   START_BUTTONS = InlineKeyboardMarkup(
     [[
-      InlineKeyboardButton("💁🏻 𝑴𝒚 𝑭𝒂𝒕𝒉𝒆𝒓", url="https://t.me/YogeshBots"),
+      InlineKeyboardButton("👦🏻 𝑴𝒚 𝑭𝒂𝒕𝒉𝒆𝒓", url="https://t.me/YogeshBots"),
       InlineKeyboardButton("⚙️ 𝑯𝒆𝒍𝒑", callback_data="help")
      ],[
       InlineKeyboardButton("𝑨𝒃𝒐𝒖𝒕 📕", callback_data="about"),

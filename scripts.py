@@ -30,7 +30,7 @@ class Scripted(object):
 
 
     HELP_TEXT = """
-<b>Watch Video How to Use Me <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
+<b>Watch Video How to Use Me <a href='https://bit.ly/3y3Ej6u'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
 <b>Send a photo to make it as thumbnail (optional)</b>\n
 <b>Send me any file (or) Media from telegram</b>\n
 <b>Convert files into video use /convert command</b>\n
@@ -41,14 +41,14 @@ class Scripted(object):
 
     ABOUT_TEXT = """
 <b>My Name : <a href='https://t.me/YBRenameBot'>YBRenameBot</a></b>\n
-<b>Channel : <a href='https://t.me/YogeshBots'>• Yogesh вotѕ •</a></b>\n
+<b>Channel : <a href='https://t.me/YogeshBots'>• Yogesh Bots •</a></b>\n
 <b>Version : <a href='https://t.me/RenameMLBot'>0.9.2 beta</a></b>\n
 <b>Source : <a href='https://github.com/kristy-offl'>Click Here</a></b>\n
 <b>Server : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>Language : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>Developer : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</a></b>\n
-<b>Powered By : <a href='https://t.me/YogeshBots'>• Yogesh вotѕ •</a></b>\n"""
+<b>Developer : <a href='https://bit.ly/3gwsct3'>✯°• Yogesh R •°✯</a></b>\n
+<b>Powered By : <a href='https://t.me/YogeshBots'>• Yogesh Bots •</a></b>\n"""
 
 
 
@@ -70,5 +70,5 @@ class Scripted(object):
     DOWNLOAD_START = "<b>Downloding your file please wait...</b>\n"
     JOIN_NOW_TEXT = "<code>Hey Dude Join My Update Channel To Use Me</code>"
     REPLY_TO_FILE = "<b>Reply to that file with /rename new name.ext</b>"
-    CONTACT_MY_DEVELOPER = "<b>Something Wrong Contact Our Support Group @ML_SupportGroup 🤯</b>"
+    CONTACT_MY_DEVELOPER = "<b>Something Wrong Contact Our Support Admin [Instagram](https://bit.ly/3gwsct3) 🤯</b>"
     

@@ -27,7 +27,7 @@ License -> https://github.com/SPACE-X-BOTS/RENAME-X2-BOT/blob/master/LICENSE
 * `dthumbnail` - Delete thumbnail
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/kristy-offl/RENAME-X2-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/itsyogieu/ybrenamebot)
 
 ### Credits
 

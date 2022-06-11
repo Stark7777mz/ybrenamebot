@@ -5,8 +5,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/YBRenameBot",
-  "website": "https://github.com/itsyogieu",
-  "repository": "https://github.com/itsyogieu/YBRenameBot",
+  "website": "https://github.com/Stark7777mz",
+  "repository": "https://github.com/Stark7777mz/YBRenameBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
